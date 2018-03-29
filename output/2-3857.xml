@@ -1,0 +1,30 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>2-3857.jpg</filename>
+	<path>C:\Users\12035\Desktop\jueyuanzi\Images\2-3857.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>6600</width>
+		<height>4400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>insulator</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<polygon>
+			<x1>3007</x1>
+			<y1>3136</y1>
+			<x2>3741</x2>
+			<y2>2462</y2>
+			<x3>4063</x3>
+			<y3>2812</y3>
+			<x4>3329</x4>
+			<y4>3486</y4>
+		</polygon>
+	</object>
+</annotation>

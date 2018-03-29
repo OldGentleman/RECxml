@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<annotation>
+    <folder>Images</folder>
+    <filename>013714096_K2216343_203_1_19.jpg</filename>
+    <path>C:\Users\12035\Desktop\jueyuanzi\Images\013714096_K2216343_203_1_19.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>6600</width>
+        <height>4400</height>
+        <depth>3</depth>
+    </size>
+
+    <segmented>0</segmented>
+    <object>
+        <name>insulator</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <polygon>
+			<x1>478</x1>
+			<y1>2080</y1>
+			<x2>1465</x2>
+			<y2>1257</y2>
+			<x3>1839</x3>
+			<y3>1750</y3>
+			<x4>859</x4>
+			<y4>2529</y4>
+		</polygon>
+    </object>
+    <object>
+        <name>insulator</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <polygon>
+			<x1>2873</x1>
+			<y1>3187</y1>
+			<x2>3479</x2>
+			<y2>2581</y2>
+			<x3>3770</x3>
+			<y3>2872</y3>
+			<x4>3149</x4>
+			<y4>3493</y4>
+		</polygon>
+    </object>
+</annotation>
